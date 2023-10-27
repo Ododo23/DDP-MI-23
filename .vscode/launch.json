@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/DDP MI 23 ACHMAD WASPODO/03 Percabangan",
-      "program": "c:/DDP MI 23 ACHMAD WASPODO/03 Percabangan/build/Debug/outDebug",
+      "cwd": "c:/DDP MI 23 ACHMAD WASPODO/06 Fungsi",
+      "program": "c:/DDP MI 23 ACHMAD WASPODO/06 Fungsi/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
